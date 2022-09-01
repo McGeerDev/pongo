@@ -1,2 +1,2 @@
 # pongo
-Pong game in the terminal written in Golan
+Pong game in the terminal written in Golang
