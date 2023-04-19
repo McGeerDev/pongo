@@ -25,6 +25,7 @@ func (b *Ball) CheckEdge(maxWidth int, maxHeight int) {
 	}
 }
 
+// Initiate (s) a new ball instance
 func (b *Ball) Initiate() Ball {
 	ball := Ball{
 		X:      1,
